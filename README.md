@@ -10,6 +10,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/NAREN-105/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NAREN-105/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/NAREN-105/leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 ## Array
@@ -49,13 +50,16 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/NAREN-105/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NAREN-105/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/NAREN-105/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NAREN-105/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/NAREN-105/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NAREN-105/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
