@@ -9,7 +9,7 @@ class Solution {
             arr[l++]=grid[i][j];
         }
       }
-    //  k=k%arr.length;
+      k=k%arr.length;
          for(int j=0;j<k;j++)
       {
       int tmep=arr[arr.length-1];
