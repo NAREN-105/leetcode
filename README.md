@@ -12,6 +12,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NAREN-105/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/NAREN-105/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0796-rotate-string](https://github.com/NAREN-105/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NAREN-105/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -37,6 +38,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NAREN-105/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAREN-105/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/NAREN-105/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -90,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/NAREN-105/leetcode/tree/main/0796-rotate-string/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NAREN-105/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
