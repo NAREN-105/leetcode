@@ -20,6 +20,7 @@
 | [1436-destination-city](https://github.com/NAREN-105/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/NAREN-105/leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NAREN-105/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
