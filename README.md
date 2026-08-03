@@ -37,6 +37,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NAREN-105/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAREN-105/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAREN-105/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/NAREN-105/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -68,6 +70,7 @@
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -121,6 +124,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
