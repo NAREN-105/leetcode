@@ -43,6 +43,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/NAREN-105/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/NAREN-105/leetcode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/NAREN-105/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/NAREN-105/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -147,6 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0401-binary-watch](https://github.com/NAREN-105/leetcode/tree/main/0401-binary-watch/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/NAREN-105/leetcode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,4 +157,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/NAREN-105/leetcode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 <!---LeetCode Topics End-->
