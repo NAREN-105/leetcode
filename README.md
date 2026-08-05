@@ -46,6 +46,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/NAREN-105/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/NAREN-105/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3895-count-digit-appearances](https://github.com/NAREN-105/leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/NAREN-105/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/NAREN-105/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3895-count-digit-appearances](https://github.com/NAREN-105/leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/NAREN-105/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
