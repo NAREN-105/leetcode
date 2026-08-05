@@ -48,6 +48,7 @@
 | [3731-find-missing-elements](https://github.com/NAREN-105/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3895-count-digit-appearances](https://github.com/NAREN-105/leetcode/tree/main/3895-count-digit-appearances/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/NAREN-105/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/NAREN-105/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
