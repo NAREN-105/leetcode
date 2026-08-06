@@ -56,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NAREN-105/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/NAREN-105/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAREN-105/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NAREN-105/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/NAREN-105/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -96,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NAREN-105/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/NAREN-105/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/NAREN-105/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NAREN-105/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NAREN-105/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## String Matching
@@ -170,4 +173,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/NAREN-105/leetcode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/NAREN-105/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/NAREN-105/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
