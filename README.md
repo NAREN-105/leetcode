@@ -40,6 +40,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAREN-105/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0682-baseball-game](https://github.com/NAREN-105/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1313-decompress-run-length-encoded-list](https://github.com/NAREN-105/leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1436-destination-city](https://github.com/NAREN-105/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NAREN-105/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
