@@ -5,9 +5,10 @@ class Solution {
      {
         int freq=nums[i];
         int ele=nums[i+1];
-        for(int j=1;j<=freq;j++)
-        {
+        int j=1;
+        while(j<=freq){
             as.add(ele);
+            j++;
         }
      }
      int ans[]=new int[as.size()];
