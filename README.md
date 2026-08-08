@@ -26,6 +26,7 @@
 | [1436-destination-city](https://github.com/NAREN-105/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/NAREN-105/leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/NAREN-105/leetcode/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NAREN-105/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/NAREN-105/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -44,6 +45,7 @@
 | [1313-decompress-run-length-encoded-list](https://github.com/NAREN-105/leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1436-destination-city](https://github.com/NAREN-105/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NAREN-105/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NAREN-105/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NAREN-105/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
