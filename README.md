@@ -37,6 +37,7 @@
 | [2942-find-words-containing-character](https://github.com/NAREN-105/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAREN-105/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAREN-105/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NAREN-105/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NAREN-105/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/NAREN-105/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/NAREN-105/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NAREN-105/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NAREN-105/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/NAREN-105/leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Sorting
@@ -144,6 +146,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NAREN-105/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAREN-105/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAREN-105/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NAREN-105/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NAREN-105/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NAREN-105/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
