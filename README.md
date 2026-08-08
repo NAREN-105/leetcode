@@ -8,6 +8,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAREN-105/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1436-destination-city](https://github.com/NAREN-105/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/NAREN-105/leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/NAREN-105/leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAREN-105/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/NAREN-105/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -25,6 +26,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/NAREN-105/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1436-destination-city](https://github.com/NAREN-105/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/NAREN-105/leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/NAREN-105/leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/NAREN-105/leetcode/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NAREN-105/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/NAREN-105/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
