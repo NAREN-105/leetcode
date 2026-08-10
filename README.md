@@ -43,6 +43,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/NAREN-105/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/NAREN-105/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/NAREN-105/leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
+| [3921-score-validator](https://github.com/NAREN-105/leetcode/tree/main/3921-score-validator/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3895-count-digit-appearances](https://github.com/NAREN-105/leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/NAREN-105/leetcode/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
+| [3921-score-validator](https://github.com/NAREN-105/leetcode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/NAREN-105/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/NAREN-105/leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Math
@@ -137,6 +139,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/NAREN-105/leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3921-score-validator](https://github.com/NAREN-105/leetcode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/NAREN-105/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
