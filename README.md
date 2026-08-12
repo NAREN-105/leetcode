@@ -13,6 +13,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/NAREN-105/leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/NAREN-105/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NAREN-105/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAREN-105/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/NAREN-105/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/NAREN-105/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
@@ -67,6 +68,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/NAREN-105/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NAREN-105/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/NAREN-105/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NAREN-105/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NAREN-105/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NAREN-105/leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -249,4 +251,8 @@
 | ------- | ------- |
 | [2485-find-the-pivot-integer](https://github.com/NAREN-105/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NAREN-105/leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NAREN-105/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
