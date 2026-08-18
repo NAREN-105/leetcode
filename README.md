@@ -55,6 +55,7 @@
 | [0036-valid-sudoku](https://github.com/NAREN-105/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAREN-105/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/NAREN-105/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0682-baseball-game](https://github.com/NAREN-105/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/NAREN-105/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -131,6 +132,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAREN-105/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/NAREN-105/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NAREN-105/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
