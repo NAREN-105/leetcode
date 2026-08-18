@@ -58,6 +58,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAREN-105/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/NAREN-105/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/NAREN-105/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0561-array-partition](https://github.com/NAREN-105/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0682-baseball-game](https://github.com/NAREN-105/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/NAREN-105/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -135,6 +136,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAREN-105/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/NAREN-105/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0561-array-partition](https://github.com/NAREN-105/leetcode/tree/main/0561-array-partition/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NAREN-105/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
@@ -183,6 +185,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/NAREN-105/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0561-array-partition](https://github.com/NAREN-105/leetcode/tree/main/0561-array-partition/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NAREN-105/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAREN-105/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAREN-105/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -283,4 +286,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NAREN-105/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/NAREN-105/leetcode/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
