@@ -43,6 +43,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/NAREN-105/leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/NAREN-105/leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2810-faulty-keyboard](https://github.com/NAREN-105/leetcode/tree/main/2810-faulty-keyboard/) | Easy |
 | [2942-find-words-containing-character](https://github.com/NAREN-105/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAREN-105/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
