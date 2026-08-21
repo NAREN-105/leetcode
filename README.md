@@ -87,6 +87,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NAREN-105/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NAREN-105/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3151-special-array-i](https://github.com/NAREN-105/leetcode/tree/main/3151-special-array-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NAREN-105/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NAREN-105/leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NAREN-105/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
