@@ -118,6 +118,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NAREN-105/leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/NAREN-105/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NAREN-105/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NAREN-105/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/NAREN-105/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3765-complete-prime-number](https://github.com/NAREN-105/leetcode/tree/main/3765-complete-prime-number/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
