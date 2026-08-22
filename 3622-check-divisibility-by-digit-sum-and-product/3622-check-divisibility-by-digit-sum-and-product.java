@@ -1,6 +1,6 @@
 class Solution {
     public boolean checkDivisibility(int n) {
-    int val=Math.abs(n);
+    int val=n;
     int sum=0;
     int prod=1;
     while(val>0){
