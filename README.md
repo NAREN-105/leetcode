@@ -45,6 +45,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/NAREN-105/leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
+| [2437-number-of-valid-clock-times](https://github.com/NAREN-105/leetcode/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/NAREN-105/leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2810-faulty-keyboard](https://github.com/NAREN-105/leetcode/tree/main/2810-faulty-keyboard/) | Easy |
 | [2942-find-words-containing-character](https://github.com/NAREN-105/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -232,6 +233,7 @@
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/NAREN-105/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/NAREN-105/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+| [2437-number-of-valid-clock-times](https://github.com/NAREN-105/leetcode/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NAREN-105/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NAREN-105/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3765-complete-prime-number](https://github.com/NAREN-105/leetcode/tree/main/3765-complete-prime-number/) | Medium |
