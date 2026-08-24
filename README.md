@@ -43,6 +43,7 @@
 | [1957-delete-characters-to-make-fancy-string](https://github.com/NAREN-105/leetcode/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NAREN-105/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/NAREN-105/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/NAREN-105/leetcode/tree/main/2042-check-if-numbers-are-ascending-in-a-sentence/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/NAREN-105/leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
