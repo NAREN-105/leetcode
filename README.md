@@ -22,6 +22,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAREN-105/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/NAREN-105/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/NAREN-105/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/NAREN-105/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/NAREN-105/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/NAREN-105/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
@@ -101,6 +102,7 @@
 | [3701-compute-alternating-sum](https://github.com/NAREN-105/leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NAREN-105/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/NAREN-105/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/NAREN-105/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/NAREN-105/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3895-count-digit-appearances](https://github.com/NAREN-105/leetcode/tree/main/3895-count-digit-appearances/) | Medium |
