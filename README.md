@@ -51,6 +51,7 @@
 | [2437-number-of-valid-clock-times](https://github.com/NAREN-105/leetcode/tree/main/2437-number-of-valid-clock-times/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/NAREN-105/leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2810-faulty-keyboard](https://github.com/NAREN-105/leetcode/tree/main/2810-faulty-keyboard/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NAREN-105/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2942-find-words-containing-character](https://github.com/NAREN-105/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAREN-105/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAREN-105/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -296,6 +297,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NAREN-105/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NAREN-105/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
