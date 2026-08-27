@@ -58,6 +58,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NAREN-105/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NAREN-105/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/NAREN-105/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3856-trim-trailing-vowels](https://github.com/NAREN-105/leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/NAREN-105/leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3921-score-validator](https://github.com/NAREN-105/leetcode/tree/main/3921-score-validator/) | Easy |
 ## Array
