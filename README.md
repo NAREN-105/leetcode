@@ -96,6 +96,7 @@
 | [2942-find-words-containing-character](https://github.com/NAREN-105/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NAREN-105/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/NAREN-105/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NAREN-105/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3151-special-array-i](https://github.com/NAREN-105/leetcode/tree/main/3151-special-array-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NAREN-105/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -182,6 +183,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2810-faulty-keyboard](https://github.com/NAREN-105/leetcode/tree/main/2810-faulty-keyboard/) | Easy |
 | [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/NAREN-105/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NAREN-105/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/NAREN-105/leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -305,6 +307,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2485-find-the-pivot-integer](https://github.com/NAREN-105/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/NAREN-105/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NAREN-105/leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
