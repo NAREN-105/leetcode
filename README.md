@@ -90,6 +90,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NAREN-105/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NAREN-105/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/NAREN-105/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NAREN-105/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/NAREN-105/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2540-minimum-common-value](https://github.com/NAREN-105/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -224,6 +225,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NAREN-105/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/NAREN-105/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/NAREN-105/leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/NAREN-105/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAREN-105/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAREN-105/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NAREN-105/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
