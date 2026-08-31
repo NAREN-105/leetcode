@@ -80,6 +80,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/NAREN-105/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/NAREN-105/leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/NAREN-105/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/NAREN-105/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/NAREN-105/leetcode/tree/main/1436-destination-city/) | Easy |
@@ -241,6 +242,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/NAREN-105/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/NAREN-105/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
