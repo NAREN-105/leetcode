@@ -10,7 +10,7 @@ class Solution {
          
         int[] minColIndices = new int[m];
         
-        // Step 1: Find the minimum element in each row
+       
         for (int i = 0; i < m; i++) {
             int minVal = matrix[i][0];
             int minColIdx = 0;
