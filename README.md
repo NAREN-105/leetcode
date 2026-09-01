@@ -22,6 +22,7 @@
 | [2540-minimum-common-value](https://github.com/NAREN-105/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NAREN-105/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAREN-105/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NAREN-105/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/NAREN-105/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/NAREN-105/leetcode/tree/main/3712-sum-of-elements-with-frequency-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/NAREN-105/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -107,6 +108,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NAREN-105/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NAREN-105/leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NAREN-105/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NAREN-105/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/NAREN-105/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/NAREN-105/leetcode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/NAREN-105/leetcode/tree/main/3683-earliest-time-to-finish-one-task/) | Easy |
@@ -244,6 +246,7 @@
 | [0036-valid-sudoku](https://github.com/NAREN-105/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/NAREN-105/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NAREN-105/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +291,7 @@
 | ------- | ------- |
 | [0401-binary-watch](https://github.com/NAREN-105/leetcode/tree/main/0401-binary-watch/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/NAREN-105/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NAREN-105/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/NAREN-105/leetcode/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/NAREN-105/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -338,4 +342,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/NAREN-105/leetcode/tree/main/0561-array-partition/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/NAREN-105/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 <!---LeetCode Topics End-->
