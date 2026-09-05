@@ -124,6 +124,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/NAREN-105/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3895-count-digit-appearances](https://github.com/NAREN-105/leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/NAREN-105/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/NAREN-105/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3917-count-indices-with-opposite-parity](https://github.com/NAREN-105/leetcode/tree/main/3917-count-indices-with-opposite-parity/) | Easy |
 | [3921-score-validator](https://github.com/NAREN-105/leetcode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/NAREN-105/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -327,6 +328,7 @@
 | [3028-ant-on-the-boundary](https://github.com/NAREN-105/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NAREN-105/leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/NAREN-105/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/NAREN-105/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
