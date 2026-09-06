@@ -61,6 +61,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NAREN-105/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NAREN-105/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/NAREN-105/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/NAREN-105/leetcode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/NAREN-105/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/NAREN-105/leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/NAREN-105/leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
@@ -166,6 +167,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NAREN-105/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NAREN-105/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/NAREN-105/leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/NAREN-105/leetcode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/NAREN-105/leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/NAREN-105/leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
@@ -200,6 +202,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NAREN-105/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/NAREN-105/leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/NAREN-105/leetcode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/NAREN-105/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/NAREN-105/leetcode/tree/main/3921-score-validator/) | Easy |
