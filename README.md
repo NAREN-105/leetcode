@@ -145,6 +145,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NAREN-105/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NAREN-105/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/NAREN-105/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/NAREN-105/leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3765-complete-prime-number](https://github.com/NAREN-105/leetcode/tree/main/3765-complete-prime-number/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/NAREN-105/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -202,6 +203,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NAREN-105/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/NAREN-105/leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/NAREN-105/leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/NAREN-105/leetcode/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/NAREN-105/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
