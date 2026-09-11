@@ -195,6 +195,7 @@
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/NAREN-105/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1603-design-parking-system](https://github.com/NAREN-105/leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/NAREN-105/leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2810-faulty-keyboard](https://github.com/NAREN-105/leetcode/tree/main/2810-faulty-keyboard/) | Easy |
@@ -263,6 +264,7 @@
 | ------- | ------- |
 | [0819-most-common-word](https://github.com/NAREN-105/leetcode/tree/main/0819-most-common-word/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1603-design-parking-system](https://github.com/NAREN-105/leetcode/tree/main/1603-design-parking-system/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/NAREN-105/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/NAREN-105/leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
@@ -359,4 +361,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NAREN-105/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/NAREN-105/leetcode/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
