@@ -78,6 +78,7 @@
 | [0561-array-partition](https://github.com/NAREN-105/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0682-baseball-game](https://github.com/NAREN-105/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0819-most-common-word](https://github.com/NAREN-105/leetcode/tree/main/0819-most-common-word/) | Easy |
+| [0835-image-overlap](https://github.com/NAREN-105/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/NAREN-105/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/NAREN-105/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/NAREN-105/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -256,6 +257,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/NAREN-105/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0835-image-overlap](https://github.com/NAREN-105/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/NAREN-105/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NAREN-105/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
