@@ -134,6 +134,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/NAREN-105/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NAREN-105/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/NAREN-105/leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2427-number-of-common-factors](https://github.com/NAREN-105/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
@@ -367,4 +368,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/NAREN-105/leetcode/tree/main/1603-design-parking-system/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/NAREN-105/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
