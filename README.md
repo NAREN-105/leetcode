@@ -66,6 +66,7 @@
 | [3856-trim-trailing-vowels](https://github.com/NAREN-105/leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/NAREN-105/leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3921-score-validator](https://github.com/NAREN-105/leetcode/tree/main/3921-score-validator/) | Easy |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/NAREN-105/leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +175,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3884-first-matching-character-from-both-ends](https://github.com/NAREN-105/leetcode/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/NAREN-105/leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/NAREN-105/leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +194,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/NAREN-105/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/NAREN-105/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3992-rearrange-string-to-avoid-character-pair](https://github.com/NAREN-105/leetcode/tree/main/3992-rearrange-string-to-avoid-character-pair/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
