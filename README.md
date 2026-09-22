@@ -115,6 +115,7 @@
 | [3151-special-array-i](https://github.com/NAREN-105/leetcode/tree/main/3151-special-array-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NAREN-105/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NAREN-105/leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/NAREN-105/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NAREN-105/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NAREN-105/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3663-find-the-least-frequent-digit](https://github.com/NAREN-105/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
@@ -149,6 +150,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NAREN-105/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NAREN-105/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NAREN-105/leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/NAREN-105/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/NAREN-105/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NAREN-105/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NAREN-105/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -306,6 +308,7 @@
 | [0022-generate-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NAREN-105/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NAREN-105/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/NAREN-105/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
