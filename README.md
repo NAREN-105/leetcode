@@ -399,5 +399,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/NAREN-105/leetcode/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/NAREN-105/leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0511-game-play-analysis-i](https://github.com/NAREN-105/leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
