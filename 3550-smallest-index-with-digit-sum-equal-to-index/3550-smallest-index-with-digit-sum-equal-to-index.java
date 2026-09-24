@@ -1,32 +1,26 @@
 class Solution {
     public int smallestIndex(int[] nums) {
-    for(int i=0;i<nums.length;i++)
-    {
-        int val=nums[i];
-        int sum=0;
-        if(val>9)
-        {
-            while(val>0)
-            {
-            int dig=val%10;
-            sum+=dig;
-            val/=10;
-            }
-            if(sum==i)
-            {
-             return i;
-            }
+    int mag=Integer.MAX_VALUE;
+    for(int i=0;i<nums.length;i++){
+        int val=sum(nums,i);
+        if(val==i&&i<mag){
+            mag=i;
         }
         else
         {
-            if(val==i)
-            {
-                return val;
-            }
+            continue;
         }
-       // System.out.println("i :"+nums[i]+" sum :"+sum);
     }
-    return -1;
+    return mag==Integer.MAX_VALUE?-1:mag;
     }
-    
+    public static int sum(int arr[],int n){
+        int sum=0;
+        int val=arr[n];
+            while(val>0)
+            {
+            sum+=val%10;
+            val/=10;
+            }
+        return sum==0?val:sum;
+    }
 }
