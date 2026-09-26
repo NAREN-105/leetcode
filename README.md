@@ -18,6 +18,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NAREN-105/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/NAREN-105/leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/NAREN-105/leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/NAREN-105/leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/NAREN-105/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
@@ -47,6 +48,7 @@
 | [1436-destination-city](https://github.com/NAREN-105/leetcode/tree/main/1436-destination-city/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/NAREN-105/leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/NAREN-105/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/NAREN-105/leetcode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/NAREN-105/leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/NAREN-105/leetcode/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
@@ -100,6 +102,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/NAREN-105/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/NAREN-105/leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NAREN-105/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NAREN-105/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NAREN-105/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
