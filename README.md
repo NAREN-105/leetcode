@@ -375,14 +375,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NAREN-105/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/NAREN-105/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NAREN-105/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/NAREN-105/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NAREN-105/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/NAREN-105/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +393,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/NAREN-105/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NAREN-105/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Design
 | Problem Name | Difficulty |
