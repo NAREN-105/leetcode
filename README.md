@@ -42,6 +42,7 @@
 | [0680-valid-palindrome-ii](https://github.com/NAREN-105/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/NAREN-105/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0819-most-common-word](https://github.com/NAREN-105/leetcode/tree/main/0819-most-common-word/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/NAREN-105/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NAREN-105/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NAREN-105/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1332-remove-palindromic-subsequences](https://github.com/NAREN-105/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
@@ -251,6 +252,7 @@
 | [0316-remove-duplicate-letters](https://github.com/NAREN-105/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/NAREN-105/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/NAREN-105/leetcode/tree/main/0682-baseball-game/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/NAREN-105/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NAREN-105/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NAREN-105/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NAREN-105/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -407,6 +409,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/NAREN-105/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NAREN-105/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Database
 | Problem Name | Difficulty |
