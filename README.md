@@ -94,6 +94,7 @@
 | [0905-sort-array-by-parity](https://github.com/NAREN-105/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/NAREN-105/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/NAREN-105/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/NAREN-105/leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/NAREN-105/leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/NAREN-105/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
@@ -150,6 +151,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/NAREN-105/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/NAREN-105/leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NAREN-105/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/NAREN-105/leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2427-number-of-common-factors](https://github.com/NAREN-105/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
@@ -267,6 +269,7 @@
 | [0561-array-partition](https://github.com/NAREN-105/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/NAREN-105/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NAREN-105/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/NAREN-105/leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/NAREN-105/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/NAREN-105/leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NAREN-105/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
