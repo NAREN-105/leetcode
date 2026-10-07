@@ -38,6 +38,7 @@
 | [0020-valid-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/NAREN-105/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/NAREN-105/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0409-longest-palindrome](https://github.com/NAREN-105/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0481-magical-string](https://github.com/NAREN-105/leetcode/tree/main/0481-magical-string/) | Medium |
@@ -345,6 +346,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0401-binary-watch](https://github.com/NAREN-105/leetcode/tree/main/0401-binary-watch/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -412,6 +414,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/NAREN-105/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/NAREN-105/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Design
 | Problem Name | Difficulty |
