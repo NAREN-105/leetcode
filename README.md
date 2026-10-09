@@ -54,6 +54,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/NAREN-105/leetcode/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/NAREN-105/leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1436-destination-city](https://github.com/NAREN-105/leetcode/tree/main/1436-destination-city/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NAREN-105/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/NAREN-105/leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/NAREN-105/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -269,6 +270,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NAREN-105/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NAREN-105/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/NAREN-105/leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NAREN-105/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/NAREN-105/leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -283,6 +285,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/NAREN-105/leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/NAREN-105/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/NAREN-105/leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NAREN-105/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NAREN-105/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAREN-105/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAREN-105/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -434,6 +437,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NAREN-105/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/NAREN-105/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NAREN-105/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/NAREN-105/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
