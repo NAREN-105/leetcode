@@ -2,6 +2,7 @@ class Solution {
     public int heightChecker(int[] heights) {
         ArrayList<Integer>as=new ArrayList<>();
         int co = 0;
+        
         for (int i = 0; i < heights.length; i++) {
             as.add(heights[i]);
         }
