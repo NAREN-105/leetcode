@@ -11,6 +11,7 @@
 | [0409-longest-palindrome](https://github.com/NAREN-105/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/NAREN-105/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0819-most-common-word](https://github.com/NAREN-105/leetcode/tree/main/0819-most-common-word/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/NAREN-105/leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/NAREN-105/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/NAREN-105/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -99,6 +100,7 @@
 | [0835-image-overlap](https://github.com/NAREN-105/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/NAREN-105/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/NAREN-105/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/NAREN-105/leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/NAREN-105/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/NAREN-105/leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -444,4 +446,8 @@
 | [0176-second-highest-salary](https://github.com/NAREN-105/leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/NAREN-105/leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0511-game-play-analysis-i](https://github.com/NAREN-105/leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/NAREN-105/leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 <!---LeetCode Topics End-->
