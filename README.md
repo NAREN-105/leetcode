@@ -101,6 +101,7 @@
 | [0905-sort-array-by-parity](https://github.com/NAREN-105/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/NAREN-105/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NAREN-105/leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1051-height-checker](https://github.com/NAREN-105/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/NAREN-105/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/NAREN-105/leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -212,6 +213,7 @@
 | [0561-array-partition](https://github.com/NAREN-105/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/NAREN-105/leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/NAREN-105/leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1051-height-checker](https://github.com/NAREN-105/leetcode/tree/main/1051-height-checker/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/NAREN-105/leetcode/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NAREN-105/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
@@ -415,6 +417,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/NAREN-105/leetcode/tree/main/0561-array-partition/) | Easy |
+| [1051-height-checker](https://github.com/NAREN-105/leetcode/tree/main/1051-height-checker/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -450,4 +453,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NAREN-105/leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/NAREN-105/leetcode/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
