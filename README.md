@@ -123,6 +123,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NAREN-105/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/NAREN-105/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2540-minimum-common-value](https://github.com/NAREN-105/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NAREN-105/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/NAREN-105/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/NAREN-105/leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/NAREN-105/leetcode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -327,6 +328,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/NAREN-105/leetcode/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2427-number-of-common-factors](https://github.com/NAREN-105/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2437-number-of-valid-clock-times](https://github.com/NAREN-105/leetcode/tree/main/2437-number-of-valid-clock-times/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/NAREN-105/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NAREN-105/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NAREN-105/leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3765-complete-prime-number](https://github.com/NAREN-105/leetcode/tree/main/3765-complete-prime-number/) | Medium |
