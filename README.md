@@ -6,6 +6,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NAREN-105/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/NAREN-105/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAREN-105/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0409-longest-palindrome](https://github.com/NAREN-105/leetcode/tree/main/0409-longest-palindrome/) | Easy |
@@ -36,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NAREN-105/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NAREN-105/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/NAREN-105/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -354,6 +356,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/NAREN-105/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0401-binary-watch](https://github.com/NAREN-105/leetcode/tree/main/0401-binary-watch/) | Easy |
