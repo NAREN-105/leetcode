@@ -178,6 +178,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/NAREN-105/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NAREN-105/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3663-find-the-least-frequent-digit](https://github.com/NAREN-105/leetcode/tree/main/3663-find-the-least-frequent-digit/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/NAREN-105/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/NAREN-105/leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3765-complete-prime-number](https://github.com/NAREN-105/leetcode/tree/main/3765-complete-prime-number/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -299,6 +300,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAREN-105/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/NAREN-105/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NAREN-105/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/NAREN-105/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/NAREN-105/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
