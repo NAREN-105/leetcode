@@ -160,6 +160,7 @@
 | [3921-score-validator](https://github.com/NAREN-105/leetcode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/NAREN-105/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/NAREN-105/leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
+| [4020-elevator-requests-i](https://github.com/NAREN-105/leetcode/tree/main/4020-elevator-requests-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +253,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/NAREN-105/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3921-score-validator](https://github.com/NAREN-105/leetcode/tree/main/3921-score-validator/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/NAREN-105/leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [4020-elevator-requests-i](https://github.com/NAREN-105/leetcode/tree/main/4020-elevator-requests-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
