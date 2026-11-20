@@ -8,6 +8,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NAREN-105/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/NAREN-105/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0290-word-pattern](https://github.com/NAREN-105/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAREN-105/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0409-longest-palindrome](https://github.com/NAREN-105/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/NAREN-105/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -41,6 +42,7 @@
 | [0020-valid-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/NAREN-105/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0290-word-pattern](https://github.com/NAREN-105/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/NAREN-105/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/NAREN-105/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0409-longest-palindrome](https://github.com/NAREN-105/leetcode/tree/main/0409-longest-palindrome/) | Easy |
