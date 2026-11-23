@@ -4,9 +4,7 @@ class Solution {
     ArrayList<Integer>as=new ArrayList<>();
     for(int i=0;i<nums.length-1;i+=2)
     {
-     String str1=String.valueOf(nums[i]);
-     String str2=String.valueOf(nums[i+1]);
-     String append=str1+str2;
+     String append=String.valueOf(nums[i])+String.valueOf(nums[i+1]);
      as.add(Integer.valueOf(append));
     }
     for(int i:as)
