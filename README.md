@@ -110,6 +110,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/NAREN-105/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/NAREN-105/leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1260-shift-2d-grid](https://github.com/NAREN-105/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NAREN-105/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/NAREN-105/leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/NAREN-105/leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/NAREN-105/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -171,6 +172,7 @@
 | [0002-add-two-numbers](https://github.com/NAREN-105/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0836-rectangle-overlap](https://github.com/NAREN-105/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/NAREN-105/leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NAREN-105/leetcode/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NAREN-105/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/NAREN-105/leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2427-number-of-common-factors](https://github.com/NAREN-105/leetcode/tree/main/2427-number-of-common-factors/) | Easy |
