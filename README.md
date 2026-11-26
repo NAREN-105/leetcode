@@ -12,6 +12,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAREN-105/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0409-longest-palindrome](https://github.com/NAREN-105/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/NAREN-105/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/NAREN-105/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0819-most-common-word](https://github.com/NAREN-105/leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/NAREN-105/leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/NAREN-105/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -47,6 +48,7 @@
 | [0316-remove-duplicate-letters](https://github.com/NAREN-105/leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0409-longest-palindrome](https://github.com/NAREN-105/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0481-magical-string](https://github.com/NAREN-105/leetcode/tree/main/0481-magical-string/) | Medium |
+| [0500-keyboard-row](https://github.com/NAREN-105/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/NAREN-105/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/NAREN-105/leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/NAREN-105/leetcode/tree/main/0796-rotate-string/) | Easy |
@@ -99,6 +101,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/NAREN-105/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/NAREN-105/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/NAREN-105/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0500-keyboard-row](https://github.com/NAREN-105/leetcode/tree/main/0500-keyboard-row/) | Easy |
 | [0561-array-partition](https://github.com/NAREN-105/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0682-baseball-game](https://github.com/NAREN-105/leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0819-most-common-word](https://github.com/NAREN-105/leetcode/tree/main/0819-most-common-word/) | Easy |
