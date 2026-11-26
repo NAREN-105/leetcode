@@ -178,6 +178,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NAREN-105/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NAREN-105/leetcode/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NAREN-105/leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/NAREN-105/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NAREN-105/leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/NAREN-105/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/NAREN-105/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -248,6 +249,7 @@
 | [2974-minimum-number-game](https://github.com/NAREN-105/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/NAREN-105/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NAREN-105/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/NAREN-105/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/NAREN-105/leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
