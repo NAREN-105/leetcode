@@ -124,6 +124,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/NAREN-105/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NAREN-105/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NAREN-105/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/NAREN-105/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NAREN-105/leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NAREN-105/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NAREN-105/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
@@ -409,6 +410,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/NAREN-105/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/NAREN-105/leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/NAREN-105/leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/NAREN-105/leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
